@@ -1,5 +1,5 @@
 # Video-Recommend-Engine
-A full-stack web application for users to search twitch resources (stream/video/clip) and get recommendations.
+A full-stack web application for users to search twitch resources (stream/video/clip) and get recommendations, using React, Spring MVC, MySQL, launched on Amazon EC2.
 
 Video Demo: https://recordit.co/WKnMFFURHq
 
