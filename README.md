@@ -4,7 +4,7 @@ A full-stack web application for users to search twitch resources (https://www.t
 
 Language and tools: React, Ant Design, Java, Spring MVC, MySQL, Hibernate, deployed on Amazon EC2 with Docker.
 
-Video Demo: https://recordit.co/WKnMFFURHq
+**Video Demo: https://recordit.co/WKnMFFURHq**
 
 ## Features:
 
