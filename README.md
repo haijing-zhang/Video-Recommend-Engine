@@ -32,10 +32,10 @@ Backend codes are stored in "/twitchbe" and use **Java** and **Spring MVC** fram
 
 - "/service": define features' business logics. Use **Apache HTTP Client library** to make RESTful requests from loacl services to Twitch API.
 
-- "/dao": define favorite,login,register features' APIs to manipulate databases using Hibernate.
+- "/dao": define favorite,login,register features' APIs to manipulate databases using **Hibernate**.
 
 - "/entity"
-  - "/entity/db": Use Hibernate to map three java class (Item/User/favorite_record) to three database tables.
+  - "/entity/db": Use **Hibernate** to map three java class (Item/User/favorite_record) to three database tables.
   - "/entity/request": Payload that frontend sends to server.
   - "/entity/response": Payload that server sends back to frontend.
 
