@@ -24,6 +24,12 @@ Backend code diagram: https://drive.google.com/file/d/1Ye-WrWurGY4l-7HuWGUJR5SLf
 
 Backend codes are stored in "/twitchbe" and use Spring MVC.
 
+- "/controller"
+- "/service"
+- "/"
+
+
+
 
 
 
