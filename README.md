@@ -1,8 +1,6 @@
 # Video-Recommend-Engine
 
-A full-stack web application for users to search twitch resources (https://www.twitch.tv/) and get recommendations.
-
-Language and tools: React, Ant Design, Java, Spring MVC, MySQL, Hibernate, deployed on Amazon EC2 with Docker.
+A full-stack web application for users to search twitch resources (https://www.twitch.tv/) and get recommendations, using React, Ant Design, Java, Spring MVC, MySQL, Hibernate, deployed on Amazon EC2 with Docker.
 
 **Video Demo: https://recordit.co/WKnMFFURHq**
 
