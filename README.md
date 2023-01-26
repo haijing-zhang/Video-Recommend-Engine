@@ -5,10 +5,11 @@ Video Demo: https://recordit.co/WKnMFFURHq
 
 ## Features:
 - Authentication: Login, Logout, Register.
-- Add favorite items (classified into stream, video and clip).
 - Custom Search: if name matched, customed game would return on the home screen.
-- Recommendation: After login, the web could recommend similar items based on the favorite history.
 - Popular games: Display top popular games on twitch website. 
+- Add favorite items: After login, user could add favorite item by clicking star.
+- Recommendation: After login, the web could recommend similar items based on the favorite history.
+
 
 ## Frontend:
 Frontend codes are stored in "/twitchfe" folder and are implemented with **React** library.
@@ -18,5 +19,12 @@ Frontend codes are stored in "/twitchfe" folder and are implemented with **React
 All other UI related components are built with **Ant Design library** (https://ant.design/).
 
 ## Backend:
+
+Backend code diagram: https://drive.google.com/file/d/1Ye-WrWurGY4l-7HuWGUJR5SLfExgvuMF/view
+
+Backend codes are stored in "/twitchbe" and use Spring MVC.
+
+
+
 
 ## Deployment:
