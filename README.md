@@ -25,6 +25,7 @@ All other UI-related components are built with **Ant Design library** (https://a
 ## Backend:
 
 Backend code diagram: https://drive.google.com/file/d/1Ye-WrWurGY4l-7HuWGUJR5SLfExgvuMF/view
+![image txt](https://github.com/haijing-zhang/Video-Recommend-Engine/blob/main/codediagram1.png)
 
 Backend codes are stored in "/twitchbe" and use **Java** and **Spring MVC** framework.
 
